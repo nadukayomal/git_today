@@ -60,3 +60,9 @@ print("Naduka\tYomal \" CEO \"");
 print("\' Naduka Yomal \'");
 print("Naduka \a Yomal");
 
+
+
+print(first_name[0]);
+print(first_name[1]);
+print(first_name[2]);
+print(first_name[3]);
