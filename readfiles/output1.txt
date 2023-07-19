@@ -1,0 +1,4 @@
+Name : Ameer Khan 
+Age : 55 
+City :Mumbai 
+Education :Indian Institute of Technology
